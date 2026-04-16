@@ -1,6 +1,6 @@
 Feature: make a Appointment for Doctor
 
-@debug
+
 Scenario: Login scenario
     Given driver 'https://katalon-demo-cura.herokuapp.com/'
     * configure retry = { count: 10, interval: 2000 }
